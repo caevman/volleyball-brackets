@@ -105,6 +105,6 @@ Please file feedback and issues over on the [Supabase GitHub org](https://github
 
 ## Volleyball Brackets
 
-# Suggested Node Version
+### Suggested Node Version
 
 20.13.1
